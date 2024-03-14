@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Miguel
-- 👀 I’m interested in ... learn about tech 
-- 🌱 I’m currently learning ... programming 
+#  👋 Hi, I’m @Miguel😍
+- 👀 I love knowing about tech ...❤️
+- 🌱 I’m currently learning programming 💻
 - 😄 Pronouns: Matrix
 - ⚡ Fun fact: to Study
 
